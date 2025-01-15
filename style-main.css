@@ -1046,6 +1046,7 @@ svg {
 
     .about-me {
         display: block;
+        gap: 0px;
     }
 
     #sec {
