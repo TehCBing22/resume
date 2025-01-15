@@ -1051,6 +1051,9 @@ svg {
 
     #sec {
         width: 60vw;
+        padding-left: 30px;
+        padding-right: 30px;
+        padding-bottom:30px;
     }
 
     #sec h2 {
